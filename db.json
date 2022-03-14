@@ -1,0 +1,34 @@
+{
+  "houses": [
+    {
+      "nam": "srv",
+      "address": "srvsjb",
+      "owner": "srv",
+      "areacode": "2255",
+      "rent": "50000",
+      "bachelor": "on",
+      "": "d",
+      "id": 1
+    },
+    {
+      "nam": "srv",
+      "address": "srvsjb",
+      "owner": "srv",
+      "areacode": "2255",
+      "rent": "50000",
+      "bachelor": "on",
+      "": "d",
+      "id": 2
+    },
+    {
+      "nam": "srv",
+      "address": "srvsjb",
+      "owner": "srv",
+      "areacode": "2255",
+      "rent": "50000",
+      "bachelor": "on",
+      "": "d",
+      "id": 3
+    }
+  ]
+}
